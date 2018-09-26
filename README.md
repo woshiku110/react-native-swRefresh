@@ -1,3 +1,4 @@
+npm 下载 npm install https://github.com/woshiku110/react-native-swRefresh.git --save
 # react-native-swRefresh
 --
 ##react-native-swRefresh是提供react-native下拉刷新和下拉加载组件，简单好用，支持自定义,支持iOS，Android 。
