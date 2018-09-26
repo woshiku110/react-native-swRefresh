@@ -4,7 +4,7 @@
     "description": "react native pull refresh push loadMore scrollView,listView下拉刷新下拉加载控件,支持自定义，简单好用",
     "repository": {
         "type": "git",
-        "url": "https://github.com/shiwenwen/react-native-swRefresh"
+        "url": "https://github.com/woshiku110/react-native-swRefresh"
     },
     "license": "MIT",
     "main": "./index.js",
